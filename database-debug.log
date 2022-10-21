@@ -1,0 +1,4 @@
+08:58:53.789 [NamespaceSystem-akka.actor.default-dispatcher-4] INFO akka.event.slf4j.Slf4jLogger - Slf4jLogger started
+08:58:53.912 [main] INFO com.firebase.server.forge.App$ - Listening at 127.0.0.1:8011
+08:59:01.301 [NamespaceSystem-akka.actor.default-dispatcher-6] INFO com.firebase.core.namespace.NamespaceActor - demo-friendlychat-android-default-rtdb successfully activated FBKV (SurveyIdle(0)) wait: 92ms, init: 0ms
+08:59:01.339 [NamespaceSystem-blocking-namespace-operation-dispatcher-7] INFO com.firebase.core.namespace.StateManager - Namespace demo-friendlychat-android-default-rtdb status Active to Active
